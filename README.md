@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sara Amini 👋
 
-<!--
-**sara-amini/sara-amini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+senior Frontend / Angular Developer
+years experience building enterprise-scale applications +6
+M.Sc Software Engineering | B.Sc IT
+##Tech Stack:
 
-Here are some ideas to get you started:
+- Angular, Typescript, RxJs
+- State Management (NgRx / Signals)
+- Javascript / HTML / CSS / SCSS
+- Rest APIs
+- Unit Testing (Jest / Jasmine)
+- CI-ready Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- large-scale enterprise & modular projects
+- Clean architecture & Scalable codebases
+- 6.5 years full-time dev experience
+
+ 
+- 🎯 What I’m looking for 
+- Remote Frontend / Angular Roles
+- International Teams 
+  
