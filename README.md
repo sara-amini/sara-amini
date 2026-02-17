@@ -2,9 +2,10 @@
 
 senior Frontend / Angular Developer
 years experience building enterprise-scale applications +6
-M.Sc Software Engineering | B.Sc IT
-##Tech Stack:
+M.Sc. Software Engineering | B.Sc. IT
 
+
+## Tech Stack 
 - Angular, Typescript, RxJs
 - State Management (NgRx / Signals)
 - Javascript / HTML / CSS / SCSS
