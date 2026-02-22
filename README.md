@@ -19,7 +19,7 @@ M.Sc. Software Engineering | B.Sc. IT
 - 6.5 years full-time dev experience
 
  
-- 🎯 What I’m looking for 
+## 🎯 What I’m looking for 
 - Remote Frontend / Angular Roles
 - International Teams 
   
